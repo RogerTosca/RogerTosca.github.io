@@ -5,7 +5,7 @@ function setup() {
 function draw() {
   background(220);
  
-  fill(253, 116, 18)
+  fill(242, 96, 29)
   strokeWeight (4);
   beginShape();//contorn del cap
 vertex(164.75, 302.1875);
@@ -118,7 +118,7 @@ vertex(142, 287.6125030517578);
 vertex(155, 281.6125030517578);
 endShape()
   
-   fill (253, 116, 18)
+   fill (242, 96, 29)
   beginShape();//contorn cames
 vertex(348.83333587646484, 397.65106201171875);
 vertex(325.83333587646484, 680.3177185058594);
@@ -455,7 +455,7 @@ vertex(435.8000183105469, 146.21875);
 endShape();
   
     
-  fill(253, 116, 18)
+  fill(242, 96, 29)
 beginShape();//mà dreta
 vertex(523.75, 395.1875);
 vertex(536.75, 394.1875);
@@ -497,7 +497,7 @@ vertex(527.75, 403.1875);
 vertex(523.75, 395.1875);
 endShape();
   
-  fill(249, 169, 106)
+  fill(255, 68, 0)
   beginShape();//brillantor del cap
 vertex(164.75, 168.6875);
 vertex(167.75, 158.6875);
