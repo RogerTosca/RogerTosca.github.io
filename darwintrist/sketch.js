@@ -758,7 +758,7 @@ vertex(457.8000183105469, 343.6187438964844);
 vertex(450.8000183105469, 333.6187438964844);
 endShape();
   
-  let x=sin(frameCount*0.03)*3;
+  let x=sin(frameCount*0.03)*10;
   fill(130,200,229)
   beginShape();//contorn llagrima
 vertex(330.40000915527344, 176.4187469482422+x);
